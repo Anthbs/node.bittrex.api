@@ -226,6 +226,6 @@ var NodeBittrexApi = function() {
 
     };
 
-}();
+};
 
 module.exports = NodeBittrexApi;
